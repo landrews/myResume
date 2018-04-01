@@ -19,11 +19,16 @@ body {
 .media img {
     height: 200px;
     width: 200px;
-    border-radius: 50px;
+    border-radius: 5px;
 }
 
 .img-thumbnail {
     height: 200px;
     width: 300px;
     margin-bottom: 25px;
+}
+
+address>a {
+    text-decoration: none;
+    color: #000000;
 }
