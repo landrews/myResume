@@ -1,5 +1,5 @@
 # myResume
-profile/resume using bootstrap/jQuery
+profile/resume using Bootstrap/jQuery
 
 Using <a href="https://ionicabizau.net">IonicaBizau</a> <a href="https://ionicabizau.github.io/github-calendar/example/">GitHub-Calendar</a> 
 
